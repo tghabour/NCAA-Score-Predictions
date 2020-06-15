@@ -111,8 +111,8 @@ def _get_avg_data():
     seasons.
     """
 
-    data_path = '../Data/'
-    avg_filename = 'NCAA_averges_with_index.csv'
+    data_path = '../data/processed/'
+    avg_filename = 'NCAA_averages_with_index.csv'
 
     avg_file = data_path + avg_filename
 
@@ -248,7 +248,7 @@ def get_game_data():
                 ncaa-basketball
     """
 
-    data_path = '../Data/Raw/'
+    data_path = '../data/raw/'
     game_filename = 'NCAA_games.csv'
 
     game_file = data_path + game_filename
