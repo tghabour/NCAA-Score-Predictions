@@ -33,4 +33,4 @@ Predict scores of Division I Men's NCAA matchups based on historical performance
 
 https://www.sports-reference.com/cbb/schools/
 
-https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball?pli=1
+https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball
