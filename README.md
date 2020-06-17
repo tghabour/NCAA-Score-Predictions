@@ -7,9 +7,9 @@ Predict scores of Division I Men's NCAA matchups based on historical performance
 ## Featured Techniques:
 
 - Web Scraping 
-- Linear Regression
 - Feature Engineering 
 - Supervised Learning
+- Linear Regression (OLS)
 
 ## Methodology:
 
