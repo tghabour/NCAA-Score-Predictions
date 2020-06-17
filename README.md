@@ -27,7 +27,11 @@ Predict scores of Division I Men's NCAA matchups based on historical performance
 
 ## Future Work:
 
+Ongoing work on this project will entail training a single (simpler) model that attempts to predict the *score differential* for a given game in lieu of independently predicting the score of each team.  
+
 ![future_model](https://i.loli.net/2020/06/17/kCR6MTfdmFejvlb.png)
+
+Score differential will be determined as the home team's score minus the away team's score, such that positive score differentials indicate a victorious home team and negative differentials indicate the away team victories. 
 
 ## Data Sources:
 
