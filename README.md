@@ -13,11 +13,7 @@ Predict scores of Division I Men's NCAA matchups based on historical performance
 
 ## Methodology:
 
-![model_design](https://i.loli.net/2020/06/17/3e9YkJ7guAHFsUb.png)
-
-
-
-## Analysis:
+![model_design_2](https://i.loli.net/2020/06/20/34B2C1RUKIyVdeT.png)
 
 ## Results:
 
@@ -32,6 +28,11 @@ Ongoing work on this project will entail training a single (simpler) model that 
 ![future_model](https://i.loli.net/2020/06/17/kCR6MTfdmFejvlb.png)
 
 Score differential will be determined as the home team's score minus the away team's score, such that positive score differentials indicate a victorious home team and negative differentials indicate the away team victories. 
+
+In subsequent attempts, I will consider a more deliberate **"bottom-up"** approach that aims to engineer more targeted, sophisticated features that more directly describe what what contributes to scoring. For example,
+
+- Offensive Rebound % = Offensive Rebounds / (Offensive Rebounds + Opponent Defensive Rebounds)
+- Free Throw Rate = Free Throw Attempts / Field Goal Attempts
 
 ## Data Sources:
 
