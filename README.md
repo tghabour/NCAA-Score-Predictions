@@ -21,7 +21,7 @@ Predict scores of Division I Men's NCAA matchups based on historical performance
 
 ## ![act vs pred margin and total](https://i.loli.net/2020/06/17/7zTZY8RkBLAm6ep.png)
 
-## Future Work:
+## Future Work
 
 Ongoing work on this project will entail training a single (simpler) model that attempts to predict the *score differential* for a given game in lieu of independently predicting the score of each team.  
 
